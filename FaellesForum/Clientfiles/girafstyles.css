@@ -1,0 +1,172 @@
+﻿body {
+    background-image:url(../Files/718595.jpg);
+    background-size:cover;
+}
+#Header {
+    width:100%;
+    background-image: url(../Files/kagegiraf.jpg);
+    height: 105px;
+    color: rgb(45, 22, 0);
+    text-shadow: initial;
+    opacity: 0.98;
+    text-align: center;
+    font-size: 90px;
+    font-weight: bolder;
+    text-shadow: -1px 0 antiquewhite, 0 1px antiquewhite, 1px 0 antiquewhite, 0 -1px antiquewhite;
+}
+#Content {
+    height:75vh;
+    color:black;
+}
+#Leftcontent {
+    height: 75vh;
+    color: rgb(45, 22, 0);
+    background-color: antiquewhite;
+    opacity: 0.95;
+    padding-left: 2.5%;
+    padding-top: 10px;
+    width: 17.5%;
+    float: left;
+    position: center;
+    margin: auto;
+}
+.GeneralFormHead {
+    background-color: rgb(122,77,48);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.GeneralFormBody {
+    background-color: rgb(254,252,222);
+}
+#logintable {
+    border-collapse:collapse;
+    width:75%;
+}
+#profiletable {
+    background-color: rgb(254,252,222);
+}
+#profilehead {
+    background-color: rgb(122,77,48);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.profileheaders {
+    font-weight:bold;
+}
+#LogoutBtn {
+    background-color: rgb(122,77,48);
+    font-weight: bold;
+    border-style: none;
+    color: rgb(45, 22, 0);
+    padding: 5px;
+    float: left;
+}
+#EditProfileBtn {
+    background-color: rgb(122,77,48);
+    font-weight: bold;
+    border-style: none;
+    color: rgb(45, 22, 0);
+    padding: 5px;
+    float: left;
+}
+.loginmeta01 {
+    width:90%;
+    background-color: rgb(122,77,48);
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight:bold;
+}
+.loginmeta02 {
+    background-color: rgb(254,252,222);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight:bold;
+}
+#LoginBtn {
+    width: 50%;
+    background-color: rgb(122,77,48);
+    font-weight: bold;
+    border-style: none;
+    color: rgb(45, 22, 0);
+    padding:5px;
+    float:left;
+}
+#CreateUserBtn {
+    width: 50%;
+    background-color: rgb(122,77,48);
+    font-weight: bold;
+    border-style: none;
+    color: rgb(45, 22, 0);
+    padding: 5px;
+    float: left;
+}
+#Maincontent {
+    height:75vh;
+    color:rgb(45, 22, 0);
+    background-color: rgba(250,235,215,0.7);
+    width: 79%;
+    float: left;
+    padding-left:1%;
+    padding-top:10px;
+}
+#forumtable {
+    background-color: rgba(254,252,222,0.85);
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    opacity:initial;
+}
+.ForumBtns {
+    width: 18%;
+    background-color: rgb(122,77,48);
+    font-weight: bold;
+    border-style: none;
+    color: rgb(45, 22, 0);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#BeskedBox {
+    width:50%;
+    height:100px;
+}
+#MessageList {
+    width:80%;
+    height:200px;
+}
+#EditProfileTable {
+    background-color: rgba(254,252,222,0.85);
+}
+#EditProfileHead {
+    background-color: rgb(122,77,48);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.editheaders {
+    font-weight:bold;
+}
+#EditProfiles {
+    width: 80%;
+    background-color: rgb(254,252,222);
+    padding:5px;
+}
+#EditProfilesHeader {
+    background-color: rgb(122,77,48);
+}
+.generalbtns {
+    background-color: rgb(122,77,48);
+    font-weight: bold;
+    border-style: none;
+    color: rgb(45, 22, 0);
+    padding: 5px;
+    float: left;
+}
+#Footer {
+    width:100%;
+    background-image: url(../Files/kagegiraf.jpg);
+    color: black;
+    height: 45px;
+    opacity: 0.98;
+    text-align:center;
+}
